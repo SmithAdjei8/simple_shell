@@ -12,8 +12,4 @@ hsh is started with the standard input connected to the terminal. To invoke, com
 
 gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o hsh
 
-AUTHORS
 
-Jane Nwajei
-
-Oluwakemi Temitope
