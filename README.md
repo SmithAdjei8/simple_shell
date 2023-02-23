@@ -6,7 +6,7 @@ Authors:
 
 <a href="https://github.com/SmithAdjei8/simple_shell">SmithAdjei8</a>
 <br>
-<a href="https://github.com/kaygrammer/simple_shell">kaygrammer</a>
+<a href="https://github.com/SmithAdjei8/simple_shell">kaygrammer</a>
 <br>
 
 OVERVIEW
