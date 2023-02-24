@@ -31,7 +31,7 @@ list_t *add_node(list_t **head, const char *str, int num)
 	new_head->next = *head;
 	*head = new_head;
 	return (new_head);
-};
+}
 
 /**
  * add_node_end - adds a node to the end of the list
